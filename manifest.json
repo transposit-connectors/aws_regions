@@ -1,6 +1,10 @@
 {
   "v2": {
     "transposit": {
+      "dependencies": [{
+        "name": "transposit/aws_ec2:v2.*.*",
+        "alias": "aws_ec2"
+      }],
       "operations": [{
         "id": "aws_regions",
         "function": {
