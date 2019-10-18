@@ -2,7 +2,7 @@
   "v2": {
     "transposit": {
       "operations": [{
-        "id": "webhook",
+        "id": "aws_regions",
         "function": {
           "parameters": [{
             "name": "http_event",
