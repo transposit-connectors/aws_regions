@@ -21,6 +21,11 @@
         "access": {
           "webhook": true
         }
+      }, {
+        "id": "describe_regions",
+        "tql": {
+          "tql": "SELECT DescribeRegionsResponse.regionInfo.item FROM aws_ec2.describe_regions\n"
+        }
       }],
       "dataConnections": [{
         "ref": "slack_identify.raw",
