@@ -13,6 +13,9 @@
           }],
           "js": "webhook.js",
           "lang": "js"
+        },
+        "access": {
+          "webhook": true
         }
       }],
       "dataConnections": [{
