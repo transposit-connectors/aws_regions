@@ -3,7 +3,7 @@
   return {
     status_code: 200,
     headers: { "Content-Type": "application/json" },
-    body: api.run("this.describe_regions")
+    body: api.run("this.describe_regions").item
   };
 }
 
