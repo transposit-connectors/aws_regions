@@ -4,9 +4,6 @@
       "dependencies": [{
         "name": "transposit/aws_ec2:v2.*.*",
         "alias": "aws_ec2"
-      }, {
-        "name": "transposit/aws_ec2:v2.*.*",
-        "alias": "aws_ec22"
       }],
       "operations": [{
         "id": "aws_regions",
