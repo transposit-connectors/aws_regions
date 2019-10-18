@@ -66,6 +66,8 @@
       "javascriptAPIVersion": "3",
       "source": "src",
       "userSettingsDisplay": "GENERATED"
-    }
+    },
+    "description": "Create a simple API with the list of AWS regions",
+    "displayName": "AWS Region Display"
   }
 }
